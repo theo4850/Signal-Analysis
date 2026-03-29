@@ -1,4 +1,4 @@
-# Radio Signal Analysis Project
+# Signal Analysis Project
 
 ## Overview
 
